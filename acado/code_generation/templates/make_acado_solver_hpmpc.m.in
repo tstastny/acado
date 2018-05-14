@@ -1,4 +1,4 @@
-function make_@MODULE_NAME@_solver( name )
+function make_@MODULE_NAME@_solver( name, extern )
 
 	% Output file name, and also function name
 	if (nargin > 0)
